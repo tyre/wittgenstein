@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    ffi (1.1.5)
+    ffi-rzmq (0.9.6)
+      ffi
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ffi-rzmq
